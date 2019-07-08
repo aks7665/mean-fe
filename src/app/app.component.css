@@ -1,0 +1,17 @@
+main {
+  /* margin-top: 5vh; */
+  width: 80%;
+  margin: 5vh auto;
+}
+
+::ng-deep mat-expansion-panel {
+  margin-top: 2vh !important;
+}
+
+::ng-deep mat-card {
+  margin-bottom: 2vh !important;
+}
+
+::ng-deep .align_center {
+  text-align: center;
+}
